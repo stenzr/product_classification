@@ -1,6 +1,6 @@
 # Product Classification
 
-### A deep learning project aiming to classify products by their images.
+### [A deep learning project aiming to classify products by their images.](https://stenzr.medium.com/deep-learning-in-retail-product-classification-a-use-case-b8258d471195)
 
 ## Problem Type
 #### Binary Image Classification
