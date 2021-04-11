@@ -1,21 +1,21 @@
 # Product Classification
 
-### [A deep learning project aiming to classify products by their images.](https://stenzr.medium.com/deep-learning-in-retail-product-classification-a-use-case-b8258d471195)
+ [A deep learning project aiming to classify products by their images.](https://stenzr.medium.com/deep-learning-in-retail-product-classification-a-use-case-b8258d471195)
 
 ## Problem Type
-#### Binary Image Classification
+ Binary Image Classification
 
 ## Dataset Details
 
 ### The dataset has images of two products dowmloaded from google images. 
-#### . PC
-#### . PCbag
+ . PC
+ . PCbag
 
 ## Model Details
-#### CNN, Transfer Learning
+ CNN, Transfer Learning
 
 ## Libraries
-#### Tensorflow, Matplotlib, Seaborn, Pandas, Numpy, Os, Shutil, tqdm
+ Tensorflow, Matplotlib, Seaborn, Pandas, Numpy, Os, Shutil, tqdm
 
 ## Process
 
