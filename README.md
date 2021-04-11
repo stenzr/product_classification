@@ -8,7 +8,8 @@
 ## Dataset Details
 
 ### The dataset has images of two products dowmloaded from google images. 
- . PC
+ . PC    
+
  . PCbag
 
 ## Model Details
